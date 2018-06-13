@@ -1,0 +1,48 @@
+body { 
+background:url(/tasko/images/background.jpg) no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+.panel-default {
+ opacity: 0.9;
+ margin-top:30px;
+}
+.form-group.last {
+ margin-bottom:0px;
+}
+
+.btn-submit {
+	width: 50%;
+}
+
+.vspacer {
+	margin-top: 10rem;
+}
+
+.main-panel {
+	background: rgba(0,0,0,0.5);
+}
+
+.panel.panel-default.panel-dark {
+	background-color: lightgray;
+	padding: 2rem;
+	height: 24rem;
+}
+
+.delete-board {
+	color: maroon;
+}
+
+.playground-tip{
+	padding: 5px;
+}
+
+.logout {
+	position: absolute;
+	top:0;
+	right:0;
+	z-index:99;
+}
