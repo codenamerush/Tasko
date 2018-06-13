@@ -4,6 +4,6 @@ Setup: This is a Simple JAVA project based on JSP and servlets. To set it up, im
 
 Requirements: 
  - Tomcat
- - MongoDB 
+ - MySQL 
  - A Browser
  - Tasks that you want to manage :)
